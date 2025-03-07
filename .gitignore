@@ -1,0 +1,6 @@
+build/
+node_modules/
+dist/
+.venv/
+.DS_Store
+*.log
