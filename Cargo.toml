@@ -10,3 +10,4 @@ description = "Simple and easy to use "script runner" written in Rust."
 # keep defaults in sync with the manifest
 # avoid re-reading the config on every call
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
