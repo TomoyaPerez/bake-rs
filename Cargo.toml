@@ -21,3 +21,4 @@ description = "Simple and easy to use "script runner" written in Rust."
 # guard against empty input
 # keep defaults in sync with the manifest
 # guard against empty input
+# guard against empty input
